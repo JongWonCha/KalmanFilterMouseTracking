@@ -1,0 +1,23 @@
+﻿  KalmanMouseTrack.cpp
+C:\Program Files\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  KalmanTest.cpp
+C:\Program Files\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\eigen\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\KalmanTest.cpp(77,13): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\KalmanTest.cpp(78,13): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\KalmanTest.cpp(92,25): warning C4101: 'pt_Correction' :참조되지 않은 지역 변수입니다.
+C:\Users\JW\Desktop\KalmanMouseTrack\KalmanMouseTrack\KalmanTest.cpp(92,10): warning C4101: 'pt_Prediction' :참조되지 않은 지역 변수입니다.
+LINK : warning LNK4067: 진입점이 모호합니다. 'mainCRTStartup'이(가) 선택됩니다.
+  코드를 생성하고 있습니다.
+  15 of 87 functions (17.2%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  KalmanMouseTrack.vcxproj -> C:\Users\JW\Desktop\KalmanMouseTrack\x64\Release\KalmanMouseTrack.exe
